@@ -3,8 +3,6 @@ import 'package:ngdemo3/pages/home_page.dart';
 import 'package:ngdemo3/pages/scrollview_page.dart';
 import 'package:ngdemo3/pages/listviewh_page.dart';
 import 'package:ngdemo3/pages/drawer_page.dart';
-import 'package:ngdemo3/pages/gridview_page.dart';
-import 'package:ngdemo3/pages/pagerview_page.dart';
 import 'pages/task_page.dart';
 
 void main() {
